@@ -6,7 +6,7 @@
 * [Aaditya Kumra](https://github.com/AadityaKumra)
 * [GitCommitmerge](https://github.com/GitCommitMerge)  
 * [pran](https://github.com/pranaysinghvi2003)
-* [GitCommitmerge](https://github.com/GitCommitMerge)
+* [S.THARUN 19MID0031](https://github.com/Tharun-PS)
 * [Sriram S S ](https://github.com/Sri0035)
 * [arun-r](https://github.com/arun-r)
 * [Git Commit Merge](https://github.com/GitCommitMerge)
