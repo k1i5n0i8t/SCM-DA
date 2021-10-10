@@ -4,8 +4,14 @@
 * [Amit Priyadarshi](https://github.com/Priyadarshi-Amit)
 * [Vaibhav Sharma](https://github.com/GhostVaibhav)
 * [Aaditya Kumra](https://github.com/AadityaKumra)
+
 * [GitCommitmerge](https://github.com/GitCommitMerge)
 * [Sai](https://github.com/sai-subramanian)
+
+* [Git Commit Merge](https://github.com/GitCommitMerge)
+* [Parimal Kothari](https://github.com/parimalkothari)
+
+
 <p align="center">
 	With :heart: by <a href="https://github.com/SIGMA-XI-VIT" target="_blank">Sigma Xi VIT</a>
 </p>
