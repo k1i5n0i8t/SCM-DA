@@ -5,6 +5,7 @@
 * [Vaibhav Sharma](https://github.com/GhostVaibhav)
 * [Aaditya Kumra](https://github.com/AadityaKumra)
 * [GitCommitmerge](https://github.com/GitCommitMerge)
+* [arun-r](https://github.com/arun-r)
 
 <p align="center">
 	With :heart: by <a href="https://github.com/SIGMA-XI-VIT" target="_blank">Sigma Xi VIT</a>
