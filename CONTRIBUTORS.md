@@ -4,7 +4,7 @@
 * [Amit Priyadarshi](https://github.com/Priyadarshi-Amit)
 * [Vaibhav Sharma](https://github.com/GhostVaibhav)
 * [Aaditya Kumra](https://github.com/AadityaKumra)
-* [GitCommitmerge](https://github.com/GitCommitMerge)
+* [Git Commit Merge](https://github.com/GitCommitMerge)
 * [Parimal Kothari](https://github.com/parimalkothari)
 
 <p align="center">
