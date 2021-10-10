@@ -4,6 +4,7 @@
 * [Amit Priyadarshi](https://github.com/Priyadarshi-Amit)
 * [Vaibhav Sharma](https://github.com/GhostVaibhav)
 * [Aaditya Kumra](https://github.com/AadityaKumra)
+* [Harshit Vijay Kumar](https://github.com/HarshitVijayKumar)
 * [GitCommitmerge](https://github.com/GitCommitMerge)  
 * [pran](https://github.com/pranaysinghvi2003)
 * [S.THARUN 19MID0031](https://github.com/Tharun-PS)
