@@ -13,6 +13,7 @@
 * [arun-r](https://github.com/arun-r)
 * [Git Commit Merge](https://github.com/GitCommitMerge)
 * [Parimal Kothari](https://github.com/parimalkothari)
+* [Moulik Tejpal](https://github.com/MoulikTejpal)
 
 
 <p align="center">
