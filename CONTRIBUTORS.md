@@ -15,6 +15,7 @@
 * [Parimal Kothari](https://github.com/parimalkothari)
 * [Ayush Mishra](https://github.com/ayushunofficial)
 * [Yash Raj Mani](https://github.com/yashrajmani)
+* [Moulik Tejpal](https://github.com/MoulikTejpal)
 
 
 <p align="center">
