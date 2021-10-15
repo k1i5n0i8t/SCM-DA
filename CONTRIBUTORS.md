@@ -13,6 +13,7 @@
 * [arun-r](https://github.com/arun-r)
 * [Git Commit Merge](https://github.com/GitCommitMerge)
 * [Parimal Kothari](https://github.com/parimalkothari)
+* [Ayush Mishra](https://github.com/ayushunofficial)
 * [Yash Raj Mani](https://github.com/yashrajmani)
 
 
